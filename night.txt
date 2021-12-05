@@ -1,3 +1,4 @@
 print("Hello")
 print("What's up")
-print("Fuck off")
+print("Freak")
+print("Hello")
