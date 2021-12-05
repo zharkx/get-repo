@@ -1,0 +1,3 @@
+print("Hello")
+print("What's up")
+print("Fuck off")
