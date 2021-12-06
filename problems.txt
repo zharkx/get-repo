@@ -1,3 +1,5 @@
-print("hear")
-print("bb")
-print("hello advanced")
+print("hear;")
+print("bb;")
+print("hello advanced;")
+print("hear;")
+print("bb;")
