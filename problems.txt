@@ -1,2 +1,2 @@
-print("hear")
-print("bb")
+print("hear;")
+print("bb;")
